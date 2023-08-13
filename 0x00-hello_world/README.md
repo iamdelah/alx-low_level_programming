@@ -1,1 +1,1 @@
- script that runs a C file 
+script that runs a C file
